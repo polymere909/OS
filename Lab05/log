@@ -1,0 +1,76 @@
+/home/polymere/Lab05
+a.out
+destination.txt
+example1.c
+example2.c
+example3.c
+example4.c
+example5.c
+example6.c
+log
+new_folder
+source.txt
+  File: new_folder
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 811h/2065d	Inode: 302967      Links: 2
+Access: (0775/drwxrwxr-x)  Uid: ( 1300/polymere)   Gid: ( 1302/polymere)
+Access: 2024-12-16 12:05:50.662365840 +0200
+Modify: 2024-12-16 12:05:50.662365840 +0200
+Change: 2024-12-16 12:05:50.662365840 +0200
+ Birth: -
+.
+./example2.c
+./example4.c
+./a.out
+./new_folder
+./example5.c
+./example3.c
+./example1.c
+./example6.c
+./log
+./destination.txt
+./renamedsource.txt
+find: ‘*.txt’: No such file or directory
+haha
+haha
+haha
+haha
+/home/polymere/Lab05
+a.out
+destination.txt
+example1.c
+example2.c
+example3.c
+example4.c
+example5.c
+example6.c
+log
+new_folder
+source.txt
+  File: new_folder
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 811h/2065d	Inode: 302967      Links: 2
+Access: (0775/drwxrwxr-x)  Uid: ( 1300/polymere)   Gid: ( 1302/polymere)
+Access: 2024-12-16 12:05:50.662365840 +0200
+Modify: 2024-12-16 12:05:50.662365840 +0200
+Change: 2024-12-16 12:05:50.662365840 +0200
+ Birth: -
+.
+./example2.c
+./example4.c
+./a.out
+./new_folder
+./example5.c
+./example3.c
+./example1.c
+./example6.c
+./log
+./destination.txt
+./renamedsource.txt
+find: ‘*.txt’: No such file or directory
+haha
+haha
+haha
+haha
+tar: Lab05: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
